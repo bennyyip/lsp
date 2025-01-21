@@ -155,6 +155,7 @@ call LspOptionsSet(#{
         \   customCompletionKinds: v:false,
         \   completionKinds: {},
         \   filterCompletionDuplicates: v:false,
+        \   condensedCompletionMenu: v:false,
 	\ })
 ```
 
